@@ -23,6 +23,7 @@
     ],
     "require": {
         "php": ">=5.3.3",
+        "ext-fileinfo": "*",
         "zendframework/zendframework": "dev-master",
         "kriswallsmith/assetic": "*"
     },
